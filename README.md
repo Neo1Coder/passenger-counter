@@ -6,6 +6,6 @@ Simple passenger counter developed using HTML, CSS & JAVA-SCRIPT. Allows number 
 
 [Git Hub Repo](https://github.com/Neo1Coder/passenger-counter)
 
-![website image](./assets/images/Screenshot.png)
+![website image](./assets/Images/Screenshot.png)
 
 
