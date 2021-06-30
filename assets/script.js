@@ -76,3 +76,13 @@ function increament() {
 // increament()
 // increament()
 
+
+function save() {
+
+
+    console.log(countEl)
+
+
+}
+
+save()
