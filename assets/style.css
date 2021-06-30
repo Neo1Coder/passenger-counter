@@ -1,9 +1,16 @@
 h2 {
 
     font-size: 50px;
+    font-weight: bold;
     margin-top: 0;
     margin-bottom: 20px; 
 
+}
+
+h1 {
+
+    font-size: 40px;
+    font-weight: bold;
 }
 
 button {
@@ -40,7 +47,7 @@ body {
 }
 
 
-#count {
+#count-el {
 
     position:relative;
     max-width: 200px;
