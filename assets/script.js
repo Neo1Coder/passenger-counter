@@ -8,6 +8,8 @@ var countEl = document.getElementById("count-el")
 var count = 0
 
 
+
+
 function increament() {
 
 
@@ -20,10 +22,15 @@ function save() {
 
     var register = count + " - "
     saveEl.textContent += register
+    countEl.textContent = 0
+    count = 0
+
+
 
 
 
 }
+
 
 
 
