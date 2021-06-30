@@ -30,6 +30,7 @@ body {
     flex-direction:column; 
     justify-content:center;
     min-height:100vh;
+    background-image:url ("assets\Images\noaa-lilN8M8uTRE-unsplash.jpg");
    
 }
 
