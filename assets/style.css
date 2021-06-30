@@ -14,6 +14,16 @@ h1 {
     font-family: "nunito", "sans-serif"; 
 }
 
+
+p {
+
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "nunito", "sans-serif"; 
+
+
+}
+
 button {
     border:none;
     padding-top: 10px;
@@ -35,7 +45,7 @@ button {
 
 #save-btn  {
 
-    background: darkred;
+    background: darkgreen;
     font-size: 20px;
     font-weight: bold;
     font-family: "nunito", "sans-serif"; 
